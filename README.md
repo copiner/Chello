@@ -1,3 +1,8 @@
+Install
+
+```
+npm i chello
+```
 
 Publish a Package
 
