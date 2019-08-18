@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/copiner/Chello.git"
+    "url": "git+https://github.com/copiner/chello.git"
   },
   "keywords": [
     "npm"
@@ -16,7 +16,7 @@
   "author": "copiner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/copiner/Chello/issues"
+    "url": "https://github.com/copiner/chello/issues"
   },
-  "homepage": "https://github.com/copiner/Chello#readme"
+  "homepage": "https://github.com/copiner/chello#readme"
 }
